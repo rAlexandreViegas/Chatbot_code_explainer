@@ -1,6 +1,6 @@
 # Chatbot code explainer
 
-![Static Badge](https://img.shields.io/badge/Php-505c90?style=for-the-badge&logo=php&logoColor=white)
+![Static Badge](https://img.shields.io/badge/Php-777BB4?style=for-the-badge&logo=php&logoColor=white)
 
 A PHP-based chatbot code explainer developed using the OpenAI package.  
 The GPT version employed is 3.5, and the chatbot is designed specifically to offer explanations for code.
